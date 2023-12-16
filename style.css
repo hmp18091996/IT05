@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+    background-color: #0d6efd;
+    background-position: center;
+}
+
+.loginForm {
+    background-color: #ffffff;
+    width: 30%;
+    height: 70%;
+    margin: 5% auto;
+    padding: 25px 10px;
+}
+
+.welcomeTitle {
+    width: 30%;
+    height: 70%;
+    margin: 5% auto;
+    padding: 25px 10px;
+}
