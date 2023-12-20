@@ -173,3 +173,30 @@
      color: #333;
      font-size: 25px;
  }
+
+ .home-selection .home-content {
+     position: relative;
+ }
+
+ .home-selection .search-bar {
+     background-color: #ffffff;
+     margin: 2% auto;
+ }
+
+
+ .home-selection .home-content .search-bar {
+     background: #ffffff;
+     margin-right: 16px;
+ }
+
+ .home-selection .home-content .search-bar .search-items {
+     margin-left: 12px;
+     white-space: nowrap;
+ }
+
+ .home-selection .list-info {
+     background-color: red;
+     margin: 2% auto;
+     height: 50px;
+     width: 50px;
+ }
